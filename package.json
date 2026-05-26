@@ -1,0 +1,17 @@
+{
+  "name": "chemically-active",
+  "version": "1.0.0",
+  "description": "Math and Chemistry Student Portal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "express-session": "^1.18.0",
+    "helmet": "^8.0.0",
+    "express-rate-limit": "^7.4.1",
+    "dotenv": "^16.4.5"
+  }
+}
